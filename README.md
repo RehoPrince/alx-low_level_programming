@@ -1,1 +1,1 @@
-# A Repo for ALX C Programming Challenges
+# A Repo for ALX C Programming Projects
