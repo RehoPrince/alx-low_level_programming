@@ -4,15 +4,15 @@
 /**
  * main - Entry point
  *
- * Prints a quote without using standard lib
- * 
+ * Description: Prints a quote without using standard lib
  * Return: 1 error.
 */
 
 int main(void)
 {
-	char quote[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+	write(1,
+	"and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",
+	59);
 
-	write(1, quo, strlen(quote));
 	return (1);
 }
