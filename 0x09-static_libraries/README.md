@@ -1,0 +1,1 @@
+## Subrepo ffor Static Libraries
